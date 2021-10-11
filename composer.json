@@ -1,0 +1,13 @@
+{
+    "name": "ncut/lara_0804_p",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "Yun-Fan Chen",
+            "email": "o07080826mina@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.53"
+    }
+}
